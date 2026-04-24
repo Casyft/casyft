@@ -5,7 +5,7 @@ Im a System Engineer, have about 4 years development in different areas like Mob
 
 # 💫 About Me:
 
-*  🌍  I'm based in Colombia<br>* ✉️  You can contact me at [cacypeco15@hotmail.com](mailto:cacypeco15@hotmail.com)<br>*  🚀  I'm currently working on [Magneto365](http://https://www.magneto365.com)<br>*  🧠  I'm currently learning Kubernetes<br>*  👥  I'm looking to collaborate on Interesting Projects
+🌍  I'm based in Colombia<br>✉️  You can contact me at [cacypeco15@hotmail.com](mailto:cacypeco15@hotmail.com)<br>🚀  I'm currently working on [Magneto365](http://https://www.magneto365.com)<br>🧠  I'm currently learning Kubernetes<br>👥  I'm looking to collaborate on Interesting Projects
 
 
 ## 🌐 Socials:
